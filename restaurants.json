@@ -1,0 +1,22 @@
+[
+  {
+    "name": "긴자 창원점",
+    "region": "성산구",
+    "type": "일식",
+    "rating": 4.8,
+    "price": 50000,
+    "room": true,
+    "parking": true,
+    "mood": "조용"
+  },
+  {
+    "name": "우화한우 상남점",
+    "region": "성산구",
+    "type": "고기",
+    "rating": 4.9,
+    "price": 45000,
+    "room": true,
+    "parking": true,
+    "mood": "식사"
+  }
+]
